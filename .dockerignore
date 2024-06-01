@@ -1,5 +1,4 @@
 
-
 .github
 docs
 internal
@@ -8,7 +7,7 @@ src/*/Dockerfile
 src/*/*/Dockerfile
 
 ###################################
-# currency
+# currrency
 ./src/currency/client.js
 ./src/currency/node_modules/
 ###################################
