@@ -57,8 +57,6 @@ After cloning, explore the repository structure, configuration, and sample appli
 ## Documentation
 
 - OpenTelemetry demo docs: https://opentelemetry.io/docs/demo/
-- Fork guidance: https://opentelemetry.io/docs/demo/forking/
-- Contributing guide: `CONTRIBUTING.md`
 
 ## Notes
 
