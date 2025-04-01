@@ -27,7 +27,7 @@ Use this demo to:
 
 ```powershell
 git clone https://github.com/iam-veeramalla/ultimate-devops-project-demo.git
-cd ultimate-devops-project-demo
+cd E-commerce-Devops--inftrastructure
 ```
 
 2. Review the deployment files and service definitions.
